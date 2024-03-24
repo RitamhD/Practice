@@ -50,8 +50,8 @@ nav>.account{
     margin: 0;
     padding: 0;
     background-color: white;
-    border-radius: 50%;
     margin-left: 70%;
+    border-radius: 50%;
     height: 2rem;
     filter: invert(100%);
 }
