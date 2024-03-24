@@ -101,7 +101,7 @@ header .greet .smiley_border{
 article{
     margin: 7% 0 0 5%;
     width: 40%;
-    color: whitesmoke;
+    color: yellow;
 }
 article>p{
     font-size: 2rem;
