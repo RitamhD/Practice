@@ -113,3 +113,7 @@ article li{
     border-radius: 1rem;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+footer{
+    color: white;
+    float: right;
+}
